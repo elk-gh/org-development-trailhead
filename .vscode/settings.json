@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
+=======
+    "eslint.nodePath": "c:\\Users\\ecordoba\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-45.5.0\\node_modules",
+>>>>>>> 344a570e3c5013338b1109d8845651f82fbdd6dc
     "html.suggest.angular1": false,
     "html.suggest.ionic": false
 }
